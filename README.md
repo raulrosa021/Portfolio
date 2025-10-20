@@ -5,7 +5,7 @@
 ## ¿Quién soy?
 
 - **Físico**: Graduado en Física en la Universidad Complutense de Madrid , con experiencia en el tratamiento, simulación y modelado de datos en diversos contextos científicos.
-- **Aspirante a analista de datos**: Actualmente estoy orientando mi carrera profesional hacia el análisis de datos, aplicando herramientas como Python, pandas, matplotlib y Jupyter para explorar, visualizar y extraer conclusiones de grandes volúmenes de información.
+- **Analista de datos Junior**: Actualmente estoy orientando mi carrera profesional hacia el análisis de datos, aplicando herramientas como Python, pandas, matplotlib y Jupyter para explorar, visualizar y extraer conclusiones de grandes volúmenes de información. Además, implemento modelos de Machine Learning en diferentes áreas.
 
 ## ¿Qué encontrarás en este portafolio?
 
